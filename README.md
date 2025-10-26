@@ -155,7 +155,7 @@ python usage.py
 
 ## Author
 
-**Your Name**  
+**Dillon Huston**  
 [GitHub Profile](https://github.com/dillionhuston)
 
 ---
